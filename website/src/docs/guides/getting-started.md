@@ -1,3 +1,4 @@
+title
 ---
 title: Getting started
 titleTemplate: Guides
